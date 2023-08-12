@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.ba62d76b.css",
-    "main.js": "/static/js/main.9fa1e033.js",
+    "main.js": "/static/js/main.fda20cad.js",
     "static/js/787.ae971348.chunk.js": "/static/js/787.ae971348.chunk.js",
     "static/media/card.png": "/static/media/card.c314f79691abc030f0c3.png",
     "index.html": "/index.html",
     "main.ba62d76b.css.map": "/static/css/main.ba62d76b.css.map",
-    "main.9fa1e033.js.map": "/static/js/main.9fa1e033.js.map",
+    "main.fda20cad.js.map": "/static/js/main.fda20cad.js.map",
     "787.ae971348.chunk.js.map": "/static/js/787.ae971348.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba62d76b.css",
-    "static/js/main.9fa1e033.js"
+    "static/js/main.fda20cad.js"
   ]
 }
